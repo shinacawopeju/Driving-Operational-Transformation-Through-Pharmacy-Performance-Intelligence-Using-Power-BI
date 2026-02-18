@@ -1,0 +1,2 @@
+# Driving-Operational-Transformation-Through-Pharmacy-Performance-Intelligence-Using-Power-BI
+Built an operational and financial performance dashboard for a specialist pharmacy to improve visibility into delivery performance, logistics cost, and profitability. The analysis revealed regional inefficiencies, courier performance gaps, and inventory misalignment, enabling data-driven decisions to improve outcomes and margins.
