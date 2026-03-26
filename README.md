@@ -79,7 +79,7 @@ Evaluate operational effectiveness of medication delivery and identify logistics
 
 ---
 
-### Hospital Financial Performance Dashboard
+
 ![Hospital Financial Dashboard](https://drive.google.com/uc?export=view&id=1zyCIQ_atiK0j7cMjv1yaF8RFQTkB5akI)
 
 ---
